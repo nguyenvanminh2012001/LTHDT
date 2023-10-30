@@ -1,8 +1,10 @@
 package com.example.demo.business.logic;
 
+import com.example.demo.entities.RecommendProductEntity;
 import com.example.demo.entities.UserEntity;
 import com.example.demo.entities.UserLoginEntity;
 import com.example.demo.models.UserRegisterModel;
+import com.example.demo.repositories.RecommendProductRepository;
 import com.example.demo.repositories.UserLoginRepository;
 import com.example.demo.repositories.UserRepository;
 import lombok.AllArgsConstructor;
